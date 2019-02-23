@@ -1,2 +1,2 @@
 # se-scripts
-Making use of the game's scripting API, I made Snake and Pong.
+Making use of Space Engineer's in-game scripting API, I made Snake and Pong.
